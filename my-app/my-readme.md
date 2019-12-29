@@ -1,16 +1,22 @@
-trying facebook tutorial 
+1. trying facebook tutorial 
 
 https://reactjs.org/tutorial/tutorial.html
 
-using local resources 
+2. using local resources 
 
-```npx create-react-app my-app```
+3. ```npx create-react-app my-app```
 
-and clean up the direcotry but 
+4. and clean up the direcotry but 
 
-```npm start``` on project directory has issue
+5. ```npm start``` on project directory has issue
 
-after seeing https://medium.com/@choy/fixing-create-react-app-when-npm-fails-to-start-because-your-host-environment-variable-is-being-4c8a9fa0b461
+6. after seeing https://medium.com/@choy/fixing-create-react-app-when-npm-fails-to-start-because-your-host-environment-variable-is-being-4c8a9fa0b461
 
-note my .zprofile was set to source ./~bash_profile (and the web page miss the /)
+7. note my .zprofile was set to source ./~bash_profile (and the web page miss the /)
+
+8.  Seems start but do not see any tic-tac-toe field ... just a blank page
+
+
+
+
 
