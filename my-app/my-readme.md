@@ -16,7 +16,7 @@ https://reactjs.org/tutorial/tutorial.html
 
 8.  Seems start but do not see any tic-tac-toe field ... just a blank page
 
-
+9. need to install react develop tool extension and need to enable local file access
 
 
 
